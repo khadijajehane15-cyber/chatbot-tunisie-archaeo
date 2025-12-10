@@ -1,0 +1,40 @@
+=== CHUNK 1 ===
+Document : carthage.txt
+Site : Carthage
+Source : INP Tunisie / UNESCO
+Chunk 1/1
+--------------------------------------------------
+Carthage **Localisation** : Gouvernorat de Tunis, banlieue nord de Tunis **Période historique** : Fondée par les Phéniciens vers 814 av. J.-C., détruite par Rome en 146 av. J.-C., reconstruite comme colonie romaine **Description** : Ancienne cité punique qui fut la capitale de la civilisation carthaginoise. Le site archéologique comprend les ports puniques, les thermes d'Antonin, le théâtre romain, la colline de Byrsa avec le musée national, et les villas romaines. Les fouilles ont révélé plusieurs couches d'occupation : phénicienne, punique, romaine, byzantine et arabe. Les thermes d'Antonin sont parmi les plus grands de l'Empire romain. **Points remarquables** : - Ports puniques (port commercial et port militaire) - Thermes d'Antonin (IIe siècle ap. J.-C.) - Tophet de Carthage (sanctuaire) - Musée national de Carthage **Statut UNESCO** : Patrimoine mondial depuis 1979 **Superficie** : Environ 500 hectares **Source** : Institut National du Patrimoine Tunisien, fiche site n°001
+
+==================================================
+
+=== CHUNK 2 ===
+Document : dougga.txt
+Site : Dougga
+Source : INP Tunisie / UNESCO
+Chunk 1/1
+--------------------------------------------------
+Dougga (Thugga) **Localisation** : Gouvernorat de Béja, nord-ouest de la Tunisie **Période historique** : Citée numide (IVe siècle av. J.-C.), puis romaine à partir de 46 av. J.-C., occupation byzantine et arabe **Description** : Site archéologique exceptionnellement bien conservé, souvent qualifié de 'ville musée'. Situé à 600 m d'altitude, il offre une vue panoramique sur la vallée. Le théâtre romain, construit sous Marc Aurèle (168-169 ap. J.-C.), peut accueillir 3500 spectateurs et est encore utilisé pour le Festival de Dougga. La ville présente un mélange rare d'architecture numide et romaine. **Monuments principaux** : - Théâtre romain (168-169 ap. J.-C.) - Capitole (dédié à Jupiter, Junon et Minerve) - Temple de Saturne - Mausolée libyco-punique (un des rares exemples d'architecture numide) - Arc de Septime Sévère - Thermes liciniens **Statut UNESCO** : Patrimoine mondial depuis 1997 **Superficie** : 75 hectares **Particularité** : Un des rares sites avec des monuments pré-romains intacts **Source** : UNESCO - Convention du patrimoine mondial, document WHC-97/CONF.208/17
+
+==================================================
+
+=== CHUNK 3 ===
+Document : el_jem.txt
+Site : El_jem
+Source : INP Tunisie / UNESCO
+Chunk 1/1
+--------------------------------------------------
+Amphithéâtre d'El Jem (Thysdrus) **Localisation** : Gouvernorat de Mahdia, centre-est de la Tunisie **Période historique** : Construit vers 238 ap. J.-C. sous le règne de Gordien III **Description** : Troisième plus grand amphithéâtre romain au monde après le Colisée de Rome et celui de Capoue. Bâti entièrement en pierre de taille (contrairement à beaucoup d'autres construits en brique et béton), il mesure 148 m de long, 122 m de large et 36 m de haut. Pouvant accueillir 35 000 spectateurs, il est remarquablement bien conservé, notamment ses sous-sols (hypogée) qui permettent de comprendre le fonctionnement des spectacles. **Caractéristiques techniques** : - Capacité : 35 000 spectateurs - Dimensions : 148 x 122 m - Hauteur : 36 m (presque intacte sur les 3 étages) - Matériau : Pierre de taille locale - État de conservation : Exceptionnel, structures souterraines intactes **Usage historique** : Combats de gladiateurs, chasses aux fauves, naumachies (simulations de batailles navales) **Statut UNESCO** : Patrimoine mondial depuis 1979 **Utilisation actuelle** : Festival international de musique symphonique d'El Jem **Source** : Fiche technique UNESCO, référence 38bis
+
+==================================================
+
+=== CHUNK 4 ===
+Document : kerkouane.txt
+Site : Kerkouane
+Source : INP Tunisie / UNESCO
+Chunk 1/1
+--------------------------------------------------
+Kerkouane **Localisation** : Péninsule du Cap Bon, nord-est de la Tunisie **Période historique** : Ville punique fondée au VIe siècle av. J.-C., abandonnée vers 250 av. J.-C., jamais reconstruite par les Romains **Description** : Site punique unique au monde car il n'a jamais été réoccupé après sa destruction, offrant ainsi un témoignage pur de l'urbanisme et de l'architecture carthaginoise. La ville présente un plan orthogonal avec rues se coupant à angle droit, des maisons avec bains particuliers, et un système d'égouts avancé. Les sols des maisons aristocratiques sont ornés de mosaïques et de pavements en pierre colorée. **Découvertes archéologiques majeures** : - Plan urbain punique intact - Maisons avec salles de bain privées - Ateliers de pourpre (teinture à base de murex) - Sanctuaire à ciel ouvert - Nécropole avec tombes puniques **Particularités** : - Seul site punique non réoccupé - Témoignage de la vie quotidienne carthaginoise - Système d'adduction d'eau et d'égouts - Ateliers artisanaux bien préservés **Statut UNESCO** : Patrimoine mondial depuis 1986 **Superficie** : 12 hectares fouillés sur environ 50 **Source** : Rapport de fouilles INP, série 'Villes puniques de Tunisie', 1998
+
+==================================================
+

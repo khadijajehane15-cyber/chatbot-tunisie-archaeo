@@ -1,0 +1,12 @@
+# Environnements Python
+venv/
+__pycache__/
+*.pyc
+
+# Base de données locale (gardée localement)
+chroma_db/
+
+# Fichiers personnels
+*.log
+.DS_Store
+Thumbs.db

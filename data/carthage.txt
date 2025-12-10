@@ -1,0 +1,23 @@
+Carthage
+
+**Localisation** : Gouvernorat de Tunis, banlieue nord de Tunis
+
+**Période historique** : Fondée par les Phéniciens vers 814 av. J.-C., détruite par Rome en 146 av. J.-C., reconstruite comme colonie romaine
+
+**Description** : Ancienne cité punique qui fut la capitale de la civilisation carthaginoise. 
+Le site archéologique comprend les ports puniques, les thermes d'Antonin, le théâtre romain, 
+la colline de Byrsa avec le musée national, et les villas romaines. 
+Les fouilles ont révélé plusieurs couches d'occupation : phénicienne, punique, romaine, 
+byzantine et arabe. Les thermes d'Antonin sont parmi les plus grands de l'Empire romain.
+
+**Points remarquables** : 
+- Ports puniques (port commercial et port militaire)
+- Thermes d'Antonin (IIe siècle ap. J.-C.)
+- Tophet de Carthage (sanctuaire)
+- Musée national de Carthage
+
+**Statut UNESCO** : Patrimoine mondial depuis 1979
+
+**Superficie** : Environ 500 hectares
+
+**Source** : Institut National du Patrimoine Tunisien, fiche site n°001

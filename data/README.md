@@ -1,14 +1,14 @@
-\# Chatbot RAG - Sites Archéologiques de Tunisie
+# Chatbot RAG - Sites Archéologiques de Tunisie
 
 
 
-\## Description
+## Description
 
 Chatbot intelligent spécialisé sur les sites archéologiques tunisiens utilisant l'architecture RAG (Retrieval-Augmented Generation).
 
 
 
-\## Installation
+## Installation
 
 1\. Installer Python 3.10+
 
@@ -24,7 +24,7 @@ Chatbot intelligent spécialisé sur les sites archéologiques tunisiens utilisa
 
 
 
-\## Utilisation
+## Utilisation
 
 \- Créer la base : `python ingest.py`
 
@@ -34,13 +34,13 @@ Chatbot intelligent spécialisé sur les sites archéologiques tunisiens utilisa
 
 
 
-\## Données
+## Données
 
 54 documents sur 10 sites : Carthage, Dougga, El Jem, Kerkouane, Bulla Regia, Sbeitla, Utique, Thuburbo Majus, Makthar, Chemtou
 
 
 
-\## Auteur
+## Auteur
 
-\[TON NOM] - Projet IA Générative
+khadija jehane & bayen chameck
 
